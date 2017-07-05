@@ -4,9 +4,12 @@ The week2 challenge for siraj raval's the_math_of_intelligence class to implemen
 
 ##Dependencies
 
-numpy (http://www.numpy.org/)
-matplotlib (https://matplotlib.org/)
-pandas (https://pypi.python.org/pypi/pandas/)
+numpy(http://www.numpy.org/)
+
+matplotlib(https://matplotlib.org/)
+
+pandas(https://pypi.python.org/pypi/pandas/)
+
 Install missing dependencies using pip
 
 Once you have your dependencies installed via pip, run the demo in Jupyter Notebook.
